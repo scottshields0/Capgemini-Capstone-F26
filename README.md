@@ -82,7 +82,7 @@ Automatically escalates complaints.
 - Customer satisfaction (CSAT): +15-25%
 - Manual marketing effort: -40-60%
 
-Solution Architecture:
+## Solution Architecture:
 <img width="1156" height="856" alt="Screenshot 2026-09-22 000353" src="https://github.com/user-attachments/assets/715b0360-bfb4-42e1-9498-9b65551dbd46" />
 
 Currently, this is a placeholder repository that will be replaced with project work from Fall 2026 industry-embedded capstone in partnership with Capgemini, as the semester progresses. Initial conclusion of this project will be reached by the end of November 2026.
